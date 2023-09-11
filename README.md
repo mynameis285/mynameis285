@@ -30,7 +30,7 @@
 </p>
 <h5 align="center">Сертификаты об обучении:</h5>
 <p align="center" dir="auto">
-<a href="https://t.me/mynameis285" rel="nofollow"><img alt="Static Badge" src="https://www.gifki.org/data/media/1137/diplom-i-okonchanie-ucheby-animatsionnaya-kartinka-0004.gif" width="150" height="150">
+<a href="https://github.com/mynameis285/-certificates/tree/main" rel="nofollow"><img alt="Static Badge" src="https://www.gifki.org/data/media/1137/diplom-i-okonchanie-ucheby-animatsionnaya-kartinka-0004.gif" width="150" height="150">
 </p>
 <hr>
 
