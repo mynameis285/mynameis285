@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Александр!</h1>
+<h1 align="center"> 🖐️Привет, меня зовут Александр!</h1>
 
 <h5 align="center">Я начинающий специалист в области анализа данных. Мой путь в профессию начался в ноябре 2022г. с программы обучения Яндекс Практикум. Летом 2023 года я успешно окончил курс и в данный момент нахожусь в поисках работы. Параллельно, продолжаю обучение самостоятельно - оттачиваю имеющиеся навыки, стараюсь приобретать новые.</h5>
 
@@ -21,9 +21,20 @@
 
 <hr>
 
+<p align="center" dir="auto">
+<a href="https://t.me/mynameis285" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%D0%B1%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B8-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?style=plastic&logoColor=white&color=darkred" width="200" height="35">
 
+<hr>
 
-          
+<p align="center" dir="auto">
+<a href="https://t.me/mynameis285" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?style=plastic&logoColor=white&color=darkgreen" width="200" height="35">
+
+<hr>
+
+<p align="center" dir="auto">
+<h5 align="center">Навыки и инструменты:</h5>
+
+      
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameis285&label=Profile%20views&color=0e75b6&style=flat" alt="mynameis285" /> </p>
