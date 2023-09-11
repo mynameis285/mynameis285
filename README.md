@@ -17,41 +17,44 @@
 <a href="https://t.me/mynameis285" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/telegram-python?style=plastic&logo=telegram&logoColor=white&color=blue&cacheSeconds=https%3A%2F%2Ft.me%2Fmynameis285" width="100" height="25"> </a> 
 <a href="mailto:mynameis288@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/gmail-python?style=plastic&logo=gmail&logoColor=white&color=red" width="100" height="25">
 </a></p>
-
-
 <hr>
 
+</p>
+<h5 align="center">Мои проекты:</h5>
 <p align="center" dir="auto">
-<a href="https://t.me/mynameis285" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%D0%B1%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B8-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?style=plastic&logoColor=white&color=#DC143C" width="200" height="35">
-
+<a href="https://t.me/mynameis285" rel="nofollow"><img alt="Static Badge" src="https://i.gifer.com/origin/0a/0a84f078b6edb1ffed534f40c2ac0e34_w200.gif" width="250" height="150">
+</p>
 <hr>
 
+
+</p>
+<h5 align="center">Сертификаты об обучении:</h5>
 <p align="center" dir="auto">
-<a href="https://t.me/mynameis285" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?style=plastic&logoColor=white&color=#FF0000" width="200" height="35">
-
+<a href="https://t.me/mynameis285" rel="nofollow"><img alt="Static Badge" src="https://www.gifki.org/data/media/1137/diplom-i-okonchanie-ucheby-animatsionnaya-kartinka-0004.gif" width="150" height="150">
+</p>
 <hr>
+
+
 
 <p align="center" dir="auto">
 <h5 align="center">Навыки и инструменты:</h5>
+<p align="center" dir="auto">
+<img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?style=plastic&logo=python&color=%23191970" width="100" height="25">   
+<img alt="Static Badge" src="https://img.shields.io/badge/PANDAS-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?style=plastic&logo=pandas&color=%23000080" width="100" height="25">
+<img alt="Static Badge" src="https://img.shields.io/badge/PLOTLY-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?style=plastic&logo=PLOTLY&color=%2300008B" width="100" height="25">
+<img alt="Static Badge" src="https://img.shields.io/badge/NUMPY-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?style=plastic&logo=numpy&color=%230000CD" width="100" height="25">
+<img alt="Static Badge" src="https://img.shields.io/badge/SCIPY-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?style=plastic&logo=Scipy&color=%230000FF" width="100" height="25">
+<img alt="Static Badge" src="https://img.shields.io/badge/SEABORN-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?style=plastic&logo=seaborn&color=%234169E1" width="100" height="25">
+<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?style=plastic&logo=postgresql&logoColor=%23F0E68C&color=v" width="100" height="25">
+<img alt="Static Badge" src="https://img.shields.io/badge/TABLEAU-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?style=plastic&logo=tableau&logoColor=%23F0E68C&color=%2300FFFF" width="100" height="25">
+<img alt="Static Badge" src="https://img.shields.io/badge/PowerBI-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?style=plastic&logo=powerbi&logoColor=%23F0E68C&color=%2366CDAA" width="100" height="25">
+
+
+
+
+
+
+
 
       
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameis285&label=Profile%20views&color=0e75b6&style=flat" alt="mynameis285" /> </p>
-
-- 👨‍💻 Проекты [Портфолио](Портфолио)
-
-- 📫 Контакты **mynameis288@gmail.com, https://t.me/mynameis285**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mynameis285&show_icons=true&locale=en&layout=compact" alt="mynameis285" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mynameis285&show_icons=true&locale=en" alt="mynameis285" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mynameis285&" alt="mynameis285" /></p>
