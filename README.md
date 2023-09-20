@@ -22,7 +22,7 @@
 </p>
 <h5 align="center">Мои проекты:</h5>
 <p align="center" dir="auto">
-<a href="https://t.me/mynameis285" rel="nofollow"><img alt="Static Badge" src="https://i.gifer.com/origin/0a/0a84f078b6edb1ffed534f40c2ac0e34_w200.gif" width="250" height="150">
+<a href="https://github.com/mynameis285/portfolio/tree/main" rel="nofollow"><img alt="Static Badge" src="https://i.gifer.com/origin/0a/0a84f078b6edb1ffed534f40c2ac0e34_w200.gif" width="250" height="150">
 </p>
 <hr>
 
