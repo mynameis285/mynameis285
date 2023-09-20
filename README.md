@@ -30,7 +30,7 @@
 </p>
 <h5 align="center">Сертификаты об обучении:</h5>
 <p align="center" dir="auto">
-<a href="https://github.com/mynameis285/-certificates/tree/main" rel="nofollow"><img alt="Static Badge" src="https://media.tenor.com/PelZUUaLS-IAAAAC/graduation-day-congratulations.gif" width="150" height="150">
+<a href="https://github.com/mynameis285/-certificates/tree/main" rel="nofollow"><img alt="Static Badge" src="https://media.tenor.com/PelZUUaLS-IAAAAC/graduation-day-congratulations.gif" width="200" height="150">
 </p>
 <hr>
 
